@@ -41,3 +41,12 @@ ls -la
 ---------------------
 Display current directory contents, including hidden files (starting with .). Use the long format.
 
+
+###Task5. I love numbers
+---------------------
+#!/bin/bash
+ls -lan
+---------------------
+Display current directory contents, including hidden files (starting with .)with user and group IDs displayed numerically. Use the long format.
+
+
