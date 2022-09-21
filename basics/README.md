@@ -34,3 +34,10 @@ ls -l
 Display current directory contents in a long format
 
 
+###Task4. Hidden files
+---------------------
+#!/bin/bash
+ls -la
+---------------------
+Display current directory contents, including hidden files (starting with .). Use the long format.
+
