@@ -75,6 +75,15 @@ Delete the file betty
 
 
 
+###Task9. Bye bye My first directory
+---------------------
+#!/bin/bash
+rm -r  /tmp/my_first_directory
+---------------------
+Delete the file betty
+
+
+
 
 
 
