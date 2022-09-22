@@ -125,3 +125,14 @@ cp -u *.html ..
 ---------------------
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 
+
+
+###Task15. Let’s move
+---------------------
+#!/bin/bash
+mv [[:upper:]]* tmp/u
+---------------------
+Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+You can assume that the directory /tmp/u will exist when we will run your script
+
