@@ -66,6 +66,14 @@ mv /tmp/betty /tmp/my_first_director
 Move the file betty from /tmp/ to /tmp/my_first_directory
 
 
+###Task8. Bye bye Betty 
+---------------------
+#!/bin/bash
+rm /tmp/my_first_directory/betty
+---------------------
+Delete the file betty
+
+
 
 
 
