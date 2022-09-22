@@ -118,4 +118,10 @@ Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be cre
 
 
 
+###Task14. Copy HTML files
+---------------------
+#!/bin/bash
+cp -u *.html ..
+---------------------
+Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 
