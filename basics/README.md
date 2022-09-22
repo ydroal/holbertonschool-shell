@@ -57,3 +57,19 @@ mkdir /tmp/my_first_directory
 ---------------------
 Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 
+
+###Task7. Betty in my first directory
+---------------------
+#!/bin/bash
+mv /tmp/betty /tmp/my_first_director
+---------------------
+Move the file betty from /tmp/ to /tmp/my_first_directory
+
+
+
+
+
+
+
+
+
